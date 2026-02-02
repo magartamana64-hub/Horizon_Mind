@@ -4,7 +4,7 @@
 **Student name:** Tamana Magar
 **Student number:** 2316703
 **Project title:** HorizonMind - AI Visualizer for Mental Health Stress Patterns  
-
+**Project Video Link:** https://vimeo.com/1160540007?fl=ip&fe=ec
 
 ---
 
